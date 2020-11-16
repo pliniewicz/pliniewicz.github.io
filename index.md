@@ -31,9 +31,3 @@ Physicists have a coffee machine.
 
 My plans include some simple astronomical code that I'm writting as I need it for my undergrad lab reports so, nothing special but it could be helpful for someone.
 
-
-### Contact me!
-[email](patryk.liniewicz@student.uj.edu.pl) or [this one](pliniewicz@byk.oa.uj.edu.pl) 
-
-Note that provided mailing adresses can become obsolete at any time! 
-E.g. when I finish/quit uni.
