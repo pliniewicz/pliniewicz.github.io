@@ -1,4 +1,0 @@
-<Files baza.txt>
- order allow,deny
- deny from all
-</Files>
