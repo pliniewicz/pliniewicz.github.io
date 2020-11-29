@@ -1,0 +1,91 @@
+@media (min-width: 993px) and (max-width: 1055px) {
+  .container,
+  .container-nav {
+    width: 75% !important;
+  }
+  h3 {
+    width: 80%;
+    font-size: 15px;
+  }
+}
+@media (min-width: 769px) and (max-width: 992px) {
+  .container,
+  .container-nav {
+    width: 90% !important;
+  }
+}
+@media (min-width: 240px) and (max-width: 768px) {
+  .container {
+    width: 80% !important;
+  }
+  #ZAPROSZENIE {
+    text-align: center;
+  }
+  #ZAPROSZENIE h2 {
+    text-align: center;
+  }
+  #ZAPROSZENIE .line_separator {
+    margin: 30px auto;
+  }
+  #ZAPROSZENIE p {
+    text-align: center;
+  }
+  #ZAPROSZENIE .btn {
+    margin: 30px auto;
+  }
+  #ZAPROSZENIE img {
+    margin: 0px auto;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  .separator {
+    display: none !important;
+  }
+  #PLAN_KONFERENCJI .label_plan {
+    margin: 30px auto 5px auto;
+  }
+  #REJESTRACJA {
+    text-align: center !important;
+    text-align: justify;
+  }
+  #REJESTRACJA h2 {
+    text-align: center !important;
+  }
+  #REJESTRACJA .line_separator {
+    margin: 30px auto;
+  }
+  #REJESTRACJA p {
+    text-align: justify !important;
+  }
+  #REJESTRACJA .btn {
+    margin: 30px auto;
+  }
+  #REFERATY li:first-child {
+    text-align: center !important;
+    padding-bottom: 10px;
+  }
+  #REFERATY .label_referaty {
+    margin: 30px 0 10px 0;
+  }
+  #KONTAKT ul .break {
+    margin-top: 20px;
+  }
+}
+@media (min-width: 769px) and (max-width: 1055px) {
+  .banner-img {
+    display: block;
+    content: url(../img/bg-header-tablet.jpg);
+    width: 100%;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .banner-img {
+    display: block;
+    content: url(../img/bg-header-mobile.jpg) !important;
+    width: 100%;
+  }
+  h3 {
+    width: 80%;
+    font-size: 20px !important;
+  }
+}

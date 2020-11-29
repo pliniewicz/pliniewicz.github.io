@@ -1,0 +1,370 @@
+[tytul] Astrominarium październikowe online [/tytul]
+[autor] Patryk Liniewicz, 22.10.2020 [/autor]
+[tresc]
+<img src="img/astromin_22_10_2020.jpg" align="left" style="margin-right:10px;width:128;height:auto"/>
+Zapraszamy na <a href="index.php?go=astrominaria" style="font-weight:normal">Astrominarium Październikowe</a> 31.05.2019  o godzinie
+19:00 na platformie Zoom. Link otrzymają członkowie koła, goście proszeni są o zgłoszenie się w mailu lub poprzez stronę na Facebooku. Prezentację o nazwie <b>Słońce - (nie)zwykła gwiazda</b> wygłosi Janusz Nicewicz.
+<br><br>
+<!--- <a target="_blank" href="https://www.facebook.com/events/446726262804494/" style="font-weight:normal">Wydarzenie na Facebooku</a> --->
+[/tresc]
+
+[tytul] Drugie astrominarium majowe i Walne Zebranie Koła[/tytul]
+[autor] Jakub Tokarek, 31.05.2019 [/autor]
+[tresc]
+<img src="img/astromin_5_2019.jpg" align="left" style="margin-right:10px;width:128;height:auto"/>
+Zapraszamy na <a href="index.php?go=astrominaria" style="font-weight:normal">Astrominarium Majowe</a> 31.05.2019  o godzinie
+18:00 w DSW OA UJ. Prezentację o nazwie <b>Dwa ostatnie cykle aktywnosci słonecznej</b> wygłosi Katarzyna Smolarek.
+<br><br>
+Po Astrominarium odbędzie się Walne Zebranie Koła. Prosimy wszystkich członków o przybycie.
+<br><br>
+<a target="_blank" href="https://www.facebook.com/events/446726262804494/" style="font-weight:normal">Wydarzenie na Facebooku</a> 
+[/tresc]
+
+[tytul] Astrominarium majowe i zebranie [/tytul]
+[autor] Władysław Cynkiewicz, 03.05.2018 [/autor]
+[tresc]
+<img src="img/astromin_5_2018.jpg" align="left" style="margin-right:10px;width:128;height:auto"/>
+Zapraszamy na <a href="index.php?go=astrominaria" style="font-weight:normal">Astrominaria Majowe</a> 11.05.2018  o godzinie
+18:00 w DSW OA UJ. Prezentację o nazwie <b>Komety - siewcy życia</b> wygłosi Adam Tużnik.
+<br><br>
+Po Astrominarium odbędzie się zebranie Koła. Prosimy wszystkich członków o przybycie.
+<br><br>
+<a target="_blank" href="https://www.facebook.com/events/1886693858283133/" style="font-weight:normal">Wydarzenie na Facebooku</a> 
+[/tresc]
+
+[tytul] Konferencja Studenckich Astronomicznych Kół Naukowych 2018, Kraków [/tytul]
+[autor] Władysław Cynkiewicz, 08.04.2018 [/autor]
+[tresc]
+<img src="img/KSAKN 2018.png" align="left" style="margin-right:10px;width:128;height:auto"/>
+Zapraszamy na cosemestralną serię konferencji, które się odbywają w różnych miastach Polski. Tym razem w Krakowie. Rejestracja jest otwarta i dostępna na <a target="_blank" href="http://byk.oa.uj.edu.pl/~nksa/ksakn2018/" style="font-weight:normal">stronie konferencji.</a> 
+<br><br>
+<a target="_blank" href="https://www.facebook.com/KSAKN2018/" style="font-weight:normal">Strona na Facebooku</a> 
+[/tresc]
+
+[tytul] Astrominarium kwietniowe i zebranie [/tytul]
+[autor] Władysław Cynkiewicz, 10.04.2018 [/autor]
+[tresc]
+<img src="img/astromin_4_2018.jpg" align="left" style="margin-right:10px;width:128;height:auto"/>
+Zapraszamy na <a href="index.php?go=astrominaria" style="font-weight:normal">Astrominaria Kwietniowe</a> 12.04.2018  o godzinie
+19:30 w DSW OA UJ. Prezentację o <b>Genezie i przyszłości cząstek antymaterii</b> wygłosi Magdalena Bochnak.
+<br><br>
+Po Astrominarium odbędzie się zebranie Koła. Prosimy wszystkich członków o przybycie.
+<br><br>
+<a target="_blank" href="https://www.facebook.com/events/1619074108188136/" style="font-weight:normal">Wydarzenie na Facebooku</a> 
+[/tresc]
+
+[tytul] Astrominarium styczniowe [/tytul]
+[autor] Władysław Cynkiewicz, 16.01.2018 [/autor]
+[tresc]
+<img src="img/astromin_1_2018.jpg" align="left" style="margin-right:10px;width:128;height:auto"/>
+Zapraszamy na <a href="index.php?go=astrominaria" style="font-weight:normal">Astrominaria Styczniowe</a> 19.01.2018  o godzinie
+17:00 w DSW OA UJ. Prezentację o Voyagerach wygłosi Anastasiya Mikitsiuk.
+<br><br>
+<a href="https://www.facebook.com/events/169329513833296/" style="font-weight:normal">Wydarzenie na Facebooku</a> 
+[/tresc]
+
+[tytul] Astrominarium i Wigilia Koła [/tytul]
+[autor] Władysław Cynkiewicz, 15.12.2017 [/autor]
+[tresc]
+Zapraszamy na <a href="index.php?go=astrominaria" style="font-weight:normal">Astrominaria Grudniowe</a> 15.12.2017  o godzinie
+17:00 w DSW OA UJ. Prezentację na temat Galaktycznej Archeologii wygłosi Jakub Tokarek.
+<br><br>
+Po astrominarium odbęzie się Wigilia Koła z pysznym poczęstunkiem zrobionym przez Członków Koła.
+[/tresc]
+
+[tytul] Astrominarium i Walne Zebranie Koła <!-- <img src="img/nowe.gif"> --> [/tytul]
+[autor]Monika Cabaj, 21.06.2017 [/autor]
+[tresc]
+Zapraszamy na Astrominarium, które odbędzie się 28.06.2017 w Dużej Sali Wykładowej OA UJ. Dawid Halejcio wygłosi
+prezentację pt. &quotCzym są kwazary&quot.
+<br>
+Więcej informacji <a href="index.php?go=astrominaria" style="font-weight:normal">tutaj</a>
+<br><br>
+Po Astrominarium, o godzinie 20:00, zwołane zostaje Zwyczajne Walne Zebranie Naukowego Koła Studentów Astronomii.
+[/tresc]
+
+[tytul] Szkoła Kosmologiczna <!-- <img src="img/nowe.gif"> --> [/tytul]
+[autor]Monika Cabaj, 15.03.2017 [/autor]
+[tresc]
+<img src="img/3rd_cosmology_school.png" align="left" style="margin-right:10px;width:128;height:auto"/>
+Zapraszamy do udziału w&nbsp;III&nbsp;Szkole Kosmologicznej, która odbędzie się w&nbsp;Krakowie w&nbsp;dniach 10-23.07.2017. Więcje informacji można znaleźć na stronie wydarzenia: <a href="http://cosmoschool2017.oa.uj.edu.pl/">http://cosmoschool2017.oa.uj.edu.pl/</a>.
+<br>
+Zachęcamy również do śledzenia i&nbsp;lajkowania <a href="https://www.facebook.com/3rd-Cosmology-School-1264001453669027/"> strony na Facebooku </a>.
+<br>
+Chętni członkowie Koła mogą włączyć się w organizację wydarzenia.
+[/tresc]
+
+[tytul] Astrominarium [/tytul]
+[autor]Monika Cabaj, 11.05.2017 [/autor]
+[tresc]
+<a href="img/astromin_4_2017.jpg"><img src="img/astromin_4_2017m.jpg" align="left" style="margin-right: 10px;"/></a>
+Zapraszamy na Astrominarium, na którym Adam Tużnik wygłosi prezentację pt. &quotŻycie we Wszechświecie&quot. Astrominarium odbędzie się w&nbsp;czwartek 18.05.2017 o godzinie 20 w&nbsp;Obserwatorium Astronomicznym UJ.
+<br><br>
+Więcej informacji można znaleźć <a href="index.php?go=astrominaria" style="font-weight:normal">tutaj</a>
+[/tresc]
+
+[tytul] Astrominarium [/tytul]
+[autor]Monika Cabaj, 11.04.2017 [/autor]
+[tresc]
+<a href="img/astromin_3_2017.png"><img src="img/astromin_3_2017m.png" align="left" style="margin-right: 10px;"/></a>
+Zapraszamy 20.04.2017 o godzinie 18 do Dużej Sali Wykładowej OA UJ na Astrominarium, w ramach którego odbędzie się spotkanie z pracownikiem łódzkiego planetaium.
+<br><br>
+Więcej informacji znajduje się <a href="index.php?go=astrominaria" style="font-weight:normal"> tutaj </a> oraz na
+<a href="img/astromin_3_2017.png" style="font-weight:normal"> plakacie </a>.
+<br><br>
+WSTĘP WOLNY!
+[/tresc]
+
+[tytul] Astrominarium [/tytul]
+[autor]Monika Cabaj, 4.04.2017 [/autor]
+[tresc]
+UWAGA!!! Astrominarium zostało odwołane!
+<br><br>
+<strike> Zapraszamy na kolejne w tym roku Astrominarium, na którym Adam Tużnik wygłosi prezentację pt. &quotŻycie we Wszechświecie&quot. Astrominarium odbędzie się w&nbsp;czwartek 13.04.2017 o godzinie 19 w&nbsp;Obserwatorium Astronomicznym UJ.</strike>
+<br>
+Więcej informacji można znaleźć <a href="index.php?go=astrominaria" style="font-weight:normal">tutaj</a>
+[/tresc]
+
+[tytul] Astrominarium [/tytul]
+[autor]Monika Cabaj, 15.03.2017 [/autor]
+[tresc]<a href="img/astromin_2_2017_v2.jpg" border="0">
+<img src="img/astromin_2_2017m.jpg" align="left" style="margin-right:10px;">
+</a>
+Zapraszamy na Astrominarium, które odbędzie się w&nbsp;czwartek 23.03.2017 w&nbsp;Obserwatorium Astronomicznym UJ.
+<br>
+Więcej informacji można znaleźć na plakacie oraz <a href="index.php?go=astrominaria" style="font-weight:normal">tutaj</a>
+<br><br>
+WSTĘP WOLNY!!!
+[/tresc]
+
+[tytul] Konferencje [/tytul]
+[autor]Monika Cabaj, 7.02.2017 [/autor]
+[tresc] Garść informacji o konferencjach z tablic obserwatorium i wydziału.
+<br>
+<div style="margin-top:5px; margin-left:50px">
+<a href="img/scientific_conference.jpg" border="0"><img src="img/scientific_conference_m.jpg" style="margin-right: 5px;"></a>
+<a href="img/early_earth_and_exoearths.jpg" border="0"><img src="img/early_earth_and_exoearths_m.jpg" style="margin-right: 5px;"></a>
+<a href="img/eksperyment_lancuchowy.jpg" border="0"><img src="img/eksperyment_lancuchowy_m.jpg" style="margin-right: 5px;"></a>
+</div>
+<div style="margin-left:120px; margin-top:-15px">
+<a href="img/zmin.jpg" border="0"><img src="img/zmin_m.jpg" style="margin-right: 5px"></a>
+<a href="img/astrophysics_of_exoplanetary_atmospheres.jpg" border="0"><img src="img/astrophysics_of_exoplanetary_atmospheres_m.jpg" style="margin-right: 10px; position:relative; top:-50px"></a>
+</div>
+[/tresc]
+
+[tytul] Astrominarium [/tytul]
+[autor]Monika Cabaj, 4.02.2017 [/autor]
+[tresc]<a href="img/astromin_1_2017.jpg" border="0"><img src="img/astromin_1_2017m.jpg" align="left" style="margin-right: 10px;"></a>Już w najbliższy czwartek 9.02.2017 o godzinie 18:00 odbędzie się pierwsze w tym roku kalendarzowym Astrominarium, na którym Julia Piotrowska opowie o swojej niezwykłej podróży - "Astronom w podróży, czyli kilka rzeczy o południowym niebie".
+<br><br>
+Astrominarium odbędzie się w Obserwatorium Astronomicznym UJ. Wstęp wolny!!!
+<br><br>
+Więcej informacji można znaleźć <a href="index.php?go=astrominaria" style="font-weight:normal">tutaj</a>
+[/tresc]
+
+[tytul] Obserwacje planet pozasłonecznych [/tytul]
+[autor]Monika Cabaj, 4.02.2017 [/autor]
+[tresc] Zapraszamy do przeczytania artykułu "Amatorskie obserwacje tranzytów planet pozasłonecznych" autorstwa Adama Tużnika, studenta astronomii na Uniwersytecie Jagiellońskim. Artykuł ukazał się na łamach styczniowego wydania czasopisma <a href="http://www.urania.edu.pl/" style="font-weight:normal">Urania</a>.
+[/tresc]
+
+[tytul]Walne Zgromadzenie NKSA UJ [/tytul]
+[autor]Monika Cabaj, 19.01.2017 [/autor]
+[tresc]Dnia <b>9.02.2017</b> (czwartek) o godzinie <b>19.00</b> odbędzie się <b>Walne Zgromadzenie NKSA UJ</b>. Jeśli nie uzyskamy kworum, to kolejny termin ustalony zostaje na <b>ten sam dzień na godzinę 19:30</b>.
+<br>
+Zebranie odbędzie się w <b>Dużej Sali Wykładowej</b>, ponieważ Klub jest w remoncie.
+<br><br>
+Na zebraniu odbędą się wybory do Zarządu NKSA oraz omówione zostaną plany wyjazdów, konferencji i projektów Koła na obency rok kalendarzowy (2017).
+<br><br>
+Zapraszamy również wszystkich, którzy do Koła Naukowego Studentów Astronomii chcą dołączyć. Przekażcie informacje współstudentom :)
+[/tresc]
+
+[tytul] Astrominarium [/tytul]
+[autor]Monika Cabaj, 19.01.2017 [/autor]
+[tresc]Zapraszamy na kolejne <b>Astrominarium</b>, które odbędzie się <b>9.02.2017</b> (czwartek) o godzinie <b>18.00</b>.
+[/tresc]
+
+[tytul]Astrominarium[/tytul]
+[autor]Monika Cabaj, 17.12.2016 [/autor]
+[tresc]<a href="img/astromin_2_2016.jpg" border="0"><img src="img/astromin_2_2016m.jpg" align="left" style="margin-right: 10px;"></a>Już we wtorek kolejne i ostatnie w tym roku kalendarzowym ASTROMINARIUM. Doktor Marek Jamrozy z Obserwatorium Astronomicznego UJ wygłosi wykład na temat: "Niewidzialne gigantyczne duchy - o&nbsp;tym czym są zdradzają na falach radiowych".
+<br><br>
+UWAGA! ZMIANA: Najbliższe Astrominarium odbędzie się w sali A-1-03 Instytutu Fizyki UJ (ul. Łojasiewicza 11).
+<br><br>
+Przypominamy, że wstęp na wszystkie Astrominaria jest WOLNY, więc zapraszajcie znajomych.
+[/tresc]
+[tytul]Ogólnopolskie Seminarium Studentów Astronomii[/tytul]
+[autor]Bartosz Śmierciak, 21.09.2016 [/autor]
+[tresc]<img src="img/logoossa200px.png" align="left" style="margin-right: 10px;">
+<br><font color="yellow">
+Plan konferencji został zaktualizowany. Proszę zapoznać się ze zmianami godzin.<br>
+<br>
+Dojazdy z akademika na Wydział i z powrotem oraz do obserwatorium i z powrotem odbędą się wynajętym busem.<br>
+Godziny odjazdu busa zostaną podane w czwartek na rozpoczęciu konferencji.
+</font>
+[/tresc]
+[tytul]Ogólnopolskie Seminarium Studentów Astronomii[/tytul]
+[autor]Bartosz Śmierciak, 20.09.2016 [/autor]
+[tresc]<img src="img/logoossa200px.png" align="left" style="margin-right: 10px;">
+<br><font color="yellow">
+Konferencję rozpoczynamy w <a href="index.php?go=miejsce_ossa2016">DS Nawojka</a> o godzinie 18:50 w Czwartek.
+</font>
+[/tresc]
+[tytul]Ogólnopolskie Seminarium Studentów Astronomii[/tytul]
+[autor]Bartosz Śmierciak, 20.09.2016 [/autor]
+[tresc]<img src="img/logoossa200px.png" align="left" style="margin-right: 10px;">
+<br><font color="yellow">Nowe informacje w dziale <a href="index.php?go=aktualnosci_ossa2016">Aktualności</a> OSSA.<br>
+<br>
+Zaktualizowany został program konferencji. Do wglądu i pobrania w dziale <a href="index.php?go=program_ossa2016">Program</a><br>
+<br>
+W nowym dziale <a href="index.php?go=pobierz_ossa2016">Do Pobrania</a> można ściągnąć oficjalny plakat OSSA
+</font>
+[/tresc]
+[tytul]Ogólnopolskie Seminarium Studentów Astronomii[/tytul]
+[autor]Bartosz Śmierciak, 16.09.2016 [/autor]
+[tresc]<img src="img/logoossa200px.png" align="left" style="margin-right: 10px;">
+<br><font color="yellow">Drodzy Uczestnicy OSSA,<br>
+Prosimy o wysłanie rozmiarów i rodzajów koszulek na maila konferencyjnego.<br>
+Szczegóły w <a href="index.php?go=aktualnosci_ossa2016">Aktualnościach</a>
+</font>
+[/tresc]
+[tytul]Ogólnopolskie Seminarium Studentów Astronomii[/tytul]
+[autor]Bartosz Śmierciak, 30.08.2016 [/autor]
+[tresc]<img src="img/logoossa200px.png" align="left" style="margin-right: 10px;">
+<br><font color="yellow">Ostateczna data rejestracji i wpłaty na konto opłaty konferencyjnej została przedłużona do końca sierpnia!</font><br><br>
+<font color="lightgreen">Przypominamy także, że abstrakty swoich prezentacji należy dosłać do 07.09.2016 na adres e-mail konferencji.</font>
+[/tresc]
+[tytul]Ogólnopolskie Seminarium Studentów Astronomii[/tytul]
+[autor]Bartosz Śmierciak, 30.07.2016 [/autor]
+[tresc]Tegoroczna OSSA odbywa się w <a href="index.php?go=miejsce_ossa2016">Krakowie</a>. Od 22 do 25 września będziemy zdobywać wiedzę i nowe znajomości w tym pięknym mieście.
+Informacje o <a href="index.php?go=program_ossa2016">programie</a> pojawią się po otrzymaniu abstraktów.
+Jeśli chcesz wziąć udział w konferencji, patrz zakładka <a href="index.php?go=rejestracja_ossa2016">rejestracja</a>.
+Proszę nie spóźnić się z abstraktami i opłatami za konferencję, patrz zakładka <a href="index.php?go=wazne_ossa2016">ważne informacje</a>.
+Pytania, skargi, wnioski, zażalenia - zakładka <a href="index.php?go=kontakt_ossa2016">kontakt</a>.
+<br><br>
+Widzimy się w Krakowie ! :-)
+
+[/tresc]
+
+[tytul]Jowisz okiem Grubba[/tytul]
+[autor]Sebastian Kurowski, 1.04.2015 [/autor]
+[tresc]<a href="img/jowisz.jpg" border="0"><img src="img/jowisz.jpg" align="left" style="margin-right: 10px;" width="40%"></a>Podczas jednego z pogodnych wieczorów w OA UJ relaksowaliśmy się prowadząc obserwacje naszą 8-calową lunetą Grubba. Złapaliśmy kilka obiektów "głębokiego nieba" oraz postanowiliśmy uwiecznić Jowisza, który swoim blaskiem nie pozwolił o sobie zapomnieć. Podpięliśmy więc aparat i ustrzeliliśmy serię zdjęć największej planety w naszym Układzie Słonecznym. Powstały obraz jest złożeniem około 53 zdjęć.
+[/tresc]
+
+[tytul]Zaćmienie Słońca[/tytul]
+[autor]Sebastian Kurowski, 1.04.2015 [/autor]
+[tresc]20 marca miało miejsce zaćmienie Słońca, widoczne z Polski jako częściowe. Pogoda w Krakowie dopisała, więc przygotowaliśmy transmisję na żywo z wykorzystaniem teleskopu H-alpha oraz kamerki CCD. Zapraszamy do obejrzenia zapisu z naszej transmisji.
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HOb3ym-3oJk" frameborder="0" allowfullscreen></iframe>
+[/tresc]
+
+[tytul]Międzyuczelniane Warsztaty Astronomiczne WKWP 2014/2015[/tytul]
+[autor]Dajana Olech, 21.01.2015[/autor]
+[tresc]<a href="http://byk.oa.uj.edu.pl/~nksa/index.php?go=wkw2015" border="0"><img src="img/wkw2015_3m.jpg" align="left" style="margin-right: 10px;" width="40%"></a> Warszawa, Krakow, Wrocław. Co łączy te miasta? Są fajne, wiadomo, ale w ubiegły weekend połączyli je także studenci Astronomii, którzy postanowili ponownie się spotkać na kolejnej edycji KSAKN, tym razem w stolicy Dolnego Śląska.
+<br><br>
+Relację z konferencji można znaleźć <a href="http://byk.oa.uj.edu.pl/~nksa/index.php?go=wkw2015">tutaj</a>.
+[/tresc]
+
+[tytul]Obserwacje lunetą Grubb[/tytul]
+[autor]Sebastian Kurowski, 12.01.2015 [/autor]
+[tresc]<iframe width="560" height="315" src="//www.youtube.com/embed/4w-0hbenNLk" frameborder="0" allowfullscreen></iframe>
+[/tresc]
+
+[tytul]Spotkanie Opłatkowe[/tytul]
+[autor]Sebastian Kurowski, 15.12.2014[/autor]
+[tresc]<center><a href="img/spot_opl.jpg" border="0"><img src="img/spot_oplm.jpg" width="90%"></a></center>
+[/tresc]
+
+[tytul]Spotkanie integracyjne NKSA[/tytul]
+[autor]Dajana Olech, 24.11.2014[/autor]
+[tresc]Już tradycyjnie, z początkiem roku akademickiego zorganizowano spotkanie integracyjne dla członków Koła. Rozpoczęło się ono o godzinie 18, w Cafe Piast, gdzie tego dnia można było zagrać w przeróżne gry, a także pochwalić się talentem wokalnym. <a href="http://byk.oa.uj.edu.pl/~nksa/index.php?go=spotkanie">Tutaj</a> przedstawiamy relację z wydarzenia.
+[/tresc]
+
+[tytul]Astrominaria[/tytul]
+[autor]Sebastian Kurowski, 6.05.2014[/autor]
+[tresc]<a href="img/astromin_2_2014.jpg" border="0"><img src="img/astromin_2_2014m.jpg" align="left" style="margin-right: 10px;"></a>Od 8&nbsp;maja ruszamy z&nbsp;kolejną serią Astrominariów! Już w&nbsp;najbliższy czwartek, o&nbsp;godzinie 19:15, w&nbsp;Obserwatorium Astronomicznym UJ Urszula Pajdosz opowie o&nbsp;historii odkrycia Sagittariusa A*. Terminy oraz tematy kolejnych astrominariów można znaleźć na <a href="img/astromin_2_2014.jpg">plakacie</a> lub <a href="http://byk.oa.uj.edu.pl/~nksa/index.php?go=astrominaria">tutaj</a>. Serdecznie zapraszamy!
+[/tresc]
+
+[tytul]Wideorelacja z wyjazdu na Lubomir[/tytul]
+[autor]Sebastian Kurowski, 27.04.2014[/autor]
+[tresc]<iframe width="560" height="315" src="//www.youtube.com/embed/d3Ivs4dXkf4" frameborder="0" allowfullscreen></iframe>
+[/tresc]
+
+[tytul]I Warsztaty Astrofotograficzne na Lubomirze[/tytul]
+[autor]Sebastian Kurowski, 16.04.2014[/autor]
+[tresc]<a href="img/lub6d.jpg" border="0"><img src="img/lub6.jpg" align="left" style="margin-right: 10px;"></a>Przez ostatni weekend, 8-osobową ekipą wyruszyliśmy do Obserwatorium na Lubomirze, gdzie Marcin Cikała zorganizował dla nas warsztaty z&nbsp;astrofotografii. Podczas dwóch dni poznawaliśmy tajniki obróbki danych z&nbsp;kamer CCD oraz uczyliśmy się jak wydobywać ze zdjęć subtelne szczegóły galaktyk i&nbsp;mgławic. Wreszcie udało nam się również zobaczyć piękne lubomirskie niebo, które pomimo jasnego Księżyca prezentowało się niesamowicie. Już planujemy kolejną część warsztatów na przełomie czerwca i&nbsp;lipca. Tymczasem zapraszamy do lektury krótkiej <a href="http://byk.oa.uj.edu.pl/~nksa/index.php?go=astrofoto1">relacji</a> oraz obejrzenia <a href="https://plus.google.com/photos/102348230098260093243/albums/6002162055054099313?banner=pwa">galerii zdjęć</a> z&nbsp;wyjazdu.
+[/tresc]
+
+[tytul]Ostatnie miejsca na warsztaty z astrofotografii[/tytul]
+[autor]Sebastian Kurowski, 8.04.2014[/autor]
+[tresc]Zostały ostatnie trzy miejsca na warsztaty z&nbsp;astrofotografii w&nbsp;Obserwatorium Astronomicznym na Lubomirze, dla członków NKSA. Wyjazd Żukiem w&nbsp;najbliższą sobotę około godziny 16:00, powrót w&nbsp;niedzielę. Więcej informacji można znaleźć <a href="http://byk.oa.uj.edu.pl/phpbb/viewtopic.php?f=12&t=160">tutaj</a>.
+[/tresc]
+
+[tytul]Dzień Otwarty UJ[/tytul]
+[autor]Sebastian Kurowski, 8.04.2014[/autor]
+[tresc]<a href="https://plus.google.com/photos/102348230098260093243/albums/5987432648772363473?banner=pwa" border="0"><img src="img/openuj_m.png" align="left" style="margin-right: 10px;"></a>3&nbsp;marca braliśmy udział w&nbsp;organizacji Dnia Otwartego Uniwersytetu Jagiellońskiego w&nbsp;Auditorium Maximum. Przez większość dnia można było zobaczyć naszą Żukietę stojącą dumnie przy ulicy Krupniczej w&nbsp;Krakowie. Jak się okazało, nasz krwisto-czerwony pojazd mocno zwracał na siebie uwagę i&nbsp;co chwilę ktoś robił sobie przy nim pamiątkowe zdjęcia. W&nbsp;gotowości czekały dwa nasze teleskopy: Coronado z&nbsp;filtrem H-alpha oraz 8-calowy Schmidt-Cassegrain z&nbsp;filtrem mylarowym. Niestety chmury były nieustępliwe i&nbsp;tylko przez moment udało nam się zaobserwować zarys tarczy Słońca oraz większych plam. Pomimo to, atrakcji nie brakowało. W&nbsp;sali wystawowej Aditorium Maximum można było wziąć udział w zdalnych, radiowych obserwacjach Drogi Mlecznej 3-metrową anteną, uzyskać odpowiedź na nurtujące pytania dotyczące studiów astronomii oraz zaopatrzyć się w&nbsp;stosik wydziałowych ulotek i&nbsp;folderów. Kilka zdjęć z&nbsp;tego dnia można znaleźć <a href="https://plus.google.com/photos/102348230098260093243/albums/5987432648772363473?banner=pwa">tutaj</a>.
+[/tresc]
+
+[tytul]Warszawa x2[/tytul]
+[autor]Sebastian Kurowski, 7.04.2014[/autor]
+[tresc]<a href="https://plus.google.com/photos/102348230098260093243/albums/5987742187788269297?banner=pwa" border="0"><img src="img/pkim_m.png" align="left" style="margin-right: 10px;"></a>W&nbsp;ostatnich dwóch miesiącach dwukrotnie odwiedzaliśmy Warszawę. Po raz pierwszy 21&nbsp;lutego, kiedy w&nbsp;Centrum Astronomicznym im. Mikołaja Kopernika rozpoczynało się Seminarium Pracowni Komet i&nbsp;Meteorów. Było to spotkanie uświetniające dziesięciolecie powstania Polskiej Sieci Bolidowej. Podczas czterech sesji referatowych mogliśmy posłuchać o&nbsp;historii PFN (Polish Fireball Network) oraz PKiM, o&nbsp;najpiękniejszych zjawiskach bolidowych ostatnich lat, różnych metodach obserwacji meteorów, od obserwacji optycznych aż po akustyczne oraz o&nbsp;kometach. Nas szczególnie zainteresowały obserwacje meteorów, radiowe oraz za pomocą kamer. Dzięki uprzejmości Przemysława Żołądka, prezesa PKiM, mogliśmy zobaczyć jego prywatną stację radiową oraz porozmawiać o&nbsp;możliwości rozpoczęcia obserwacji meteorów z&nbsp;Krakowa. Mamy nadzieję, że już w&nbsp;tym roku uda nam się wystartować z&nbsp;nowym projektem. Szczegóły wkrótce ;)
+<br><br>
+<a href="https://plus.google.com/photos/102348230098260093243/albums/5999579740396561329?banner=pwa" border="0"><img src="img/spotkanie_m.png" align="right" style="margin-left: 10px;"></a>Po raz drugi zawitaliśmy do Warszawy dwa tygodnie później, uczestnicząc w&nbsp;I&nbsp;Spotkaniu Młodych zorganizowanym przez CAMK. Trzy dni szczelnie wypełnione prezentacjami pozwoliły nam zaznajomić się z&nbsp;tematami prac naukowych prowadzonych w&nbsp;CAMKu oraz możliwością podjęcia praktyk lub studiów doktoranckich w&nbsp;tymże ośrodku. Wykłady wygłaszane były zarówno przez pracowników naukowych, doktorantów, jak i&nbsp;przez studentów astronomii z&nbsp;całej Polski, którzy dzielili się swoimi wrażeniami z&nbsp;odbytych praktyk lub opowiadali o&nbsp;projektach realizowanych w&nbsp;swoich ośrodkach naukowych. Dodatkową atrakcją była wizyta w&nbsp;stacji naziemnej pierwszego polskiego satelity naukowego BRITE, o&nbsp;którym więcej poczytać można <a href="http://www.brite-pl.pl/">tutaj</a>.
+<br><br>
+Linki do galerii zdjęć:
+<br>
+ - <a href="https://plus.google.com/photos/102348230098260093243/albums/5987742187788269297?banner=pwa">Seminarium PKiM i PFN</a>
+<br>
+ - <a href="https://plus.google.com/photos/102348230098260093243/albums/5999579740396561329?banner=pwa">I Spotkanie Młodych</a>
+[/tresc]
+
+[tytul]Spotkanie Integracyjne[/tytul]
+[autor]Sebastian Kurowski, 4.12.2013[/autor]
+[tresc]Zapraszamy wszystkich studentów astronomii na spotkanie integracyjne, które odbędzie się 6&nbsp;grudnia (najbliższy piątek), o&nbsp;godzinie 20:00, w&nbsp;Klubie Atmosfera (Plac Szczepański 7). Zapewniamy dobrą zabawę w&nbsp;rock 'n' rollowych rytmach oraz w&nbsp;zacnym astronomicznym gronie ;)
+[/tresc]
+
+[tytul]Dzień Otwarty WFAIS "Dziewczyny do ścisłych"[/tytul]
+[autor]Sebastian Kurowski, 23.04.2013[/autor]
+[tresc]<a href="http://www.dziewczynydoscislych.uj.edu.pl" border="0"><img src="img/dzienotwarty_m.png" align="left" style="margin-right: 10px;"></a>Już w&nbsp;najbliższy czwartek <u>25&nbsp;kwietnia</u>, odbędzie się Dzień Otwarty Wydziału Fizyki, Astronomii i&nbsp;Informatyki Stosowanej UJ. Jest to część ogólnopolskiego projektu "Dziewczyny do ścisłych", który ma na celu, jak sama nazwa wskazuje, zachęcenie dziewczyn do studiowania na kierunkach technicznych, inżynierskich i&nbsp;ścisłych. Z&nbsp;tej okazji w&nbsp;Instytucie Fizyki Uniwersytetu Jagiellońskiego, w&nbsp;godzinach <u>od 10:00 do 15:00</u>, odbędzie się seria pokazów oraz wykładów popularnonaukowych. Między innymi będzie można spojrzeć na Słońce przez teleskop wyposażony w&nbsp;filtr H-alpha oraz zobaczyć jak obserwuje się Drogę Mleczną na falach radiowych. Program Dnia Otwartego można znaleźć na stronie akcji: <a href="http://www.dziewczynydoscislych.uj.edu.pl">http://www.dziewczynydoscislych.uj.edu.pl/</a>
+<br><br>
+Zapraszamy!
+[/tresc]
+
+[tytul]V Częstochowska Konferencja Naukowa Młodych[/tytul]
+[autor]Sebastian Kurowski, 8.04.2013[/autor]
+[tresc]<a href="img/nova.jpg" border="0"><img src="img/nova_m.jpg" align="left" style="margin-right: 10px;"></a>W&nbsp;dniach 9-10 maja 2013 roku, odbędzie się kolejna edycja Częstochowskiej Konferencji Naukowej Młodych, organizowanej przez Instytut Fizyki Akademii im. Jana Długosza oraz Obserwatorium Astronomiczne UJ. Konferencja jest przede wszystkim skierowana do magistrantów oraz doktorantów, którzy mają okazję do przedstawienia wyników swoich pierwszych badań z&nbsp;dziedziny astronomii, astrofizyki lub astronautyki. Termin nadsyłania zgłoszeń upływa <u>20 kwietnia</u>. Więcej informacji można znaleźć <a href="http://www.astronomianova.org/nowosci_artykuly.php?artykul=konferencja_astrophisica_nova_2013">tutaj</a>.
+[/tresc]
+
+[tytul]Yuri's Night[/tytul]
+[autor]Sebastian Kurowski, 8.04.2013[/autor]
+[tresc]<a href="img/yuris.jpg" border="0"><img src="img/yuris_m.jpg" align="left" style="margin-right: 10px;"></a>W&nbsp;najbliższy piątek 12&nbsp;kwietnia, odbędzie się Yuri's Night - międzynarodowe święto upamiętniające pierwszy załogowy lot w&nbsp;kosmos. Z&nbsp;tej okazji, w&nbsp;sali 055, w&nbsp;Instytucie Fizyki UJ, odbędzie się seria wykładów dotyczących astronautyki. Będzie można usłyszeć między innymi o&nbsp;projektach kosmicznych na AGH, możliwości odbycia praktyk w&nbsp;ESA oraz o&nbsp;tym jak wygląda życie astronautów w&nbsp;przestrzeni kosmicznej. Po wykładach przewidziana jest impreza kosmiczna w&nbsp;Klubie Nawojka. Serdecznie zapraszamy!
+[/tresc]
+
+[tytul]RT3 czeka na studentów[/tytul]
+[autor]Bartek Dębski, 28.01.2013[/autor]
+[tresc]Nasz najnowszy radioteleskop czeka na chętnych, którzy będą przeprowadzali na nim testy oraz obserwacje. Powstała okazja, by utworzyła się kołowa Sekcja Radioastronomiczna. W ramach prac na RT3 możliwe jest również podjęcie sie pracy magisterskiej. Szczegóły znajdują się na <a href="http://byk.oa.uj.edu.pl/phpbb/viewtopic.php?f=12&t=35" style="text-decoration: none">Forum na Byku</a>.[/tresc]
+
+
+[tytul]Wieczór z Gwiazdami: piątek 18.01.2013[/tytul]
+[autor]Bartek Dębski, 05.01.2013[/autor]
+[tresc]Poszukiwani ochotnicy do pomocy przy Wieczorze z Gwiazdami! Lista pomocników jest dostępna <a href="http://byk.oa.uj.edu.pl/~nksa/index.php?go=wieczorylista" style="text-decoration: none">tutaj</a>.<br><br>
+Z ogłoszeń duszpasterskich, zaktualizowałem <a href="http://byk.oa.uj.edu.pl/~nksa/index.php?go=lista" style="text-decoration: none">listę</a> członków Koła dostępną na naszej stronie oraz zaktualizowana jest lista <a href="http://byk.oa.uj.edu.pl/~nksa/index.php?go=astrominaria" style="text-decoration: none">astrominariów</a>, na których nową serię wszyscy czekamy. <br><b><font color="#b6c60c">Przypominam również o spotkaniu Sekcji Obserwacyjnej w ten poniedziałek (07.01.2013)</font></b>.[/tresc]
+
+[tytul]RT-13 - nowy radioteleskop w Częstochowie[/tytul]
+[autor]Sebastian Kurowski, 25.12.2012[/autor]
+[tresc]<a href="img/czestochowa.jpg" border="0"><img src="img/czestochowa_m.jpg" align="left" style="margin-right: 10px;"></a>21&nbsp;grudnia (z&nbsp;okazji planowanego końca świata ;)) wybraliśmy się do Częstochowy, gdzie postawiony został 13-metrowy radioteleskop. Jest to jedna z&nbsp;anten uratowanych przez dr&nbsp;Bogdana Wszołka ze stacji satelitarnej w&nbsp;Psarach. Ten instrument jest jednak wyjątkowy - jest to pierwszy radioteleskop, który będzie wykorzystany w biznesie. Jego właściciel ma interesujący plan: sygnał z&nbsp;anteny ma być przesyłany do znajdującej się obok dyskoteki, a&nbsp;tam miksowany przez DJów tworzących "kosmiczną muzykę". Pomysł niezwykle oryginalny. Co z&nbsp;tego wyjdzie? Zobaczymy już w&nbsp;przyszłym roku. Póki co pozostaje cierpliwie czekać na otwarcie.
+<br><br>
+Radioteleskop będzie również służył celom naukowym, głównie w&nbsp;pracach mających na celu wyeliminowanie z pomiarów szumu pochodzenia ziemskiego. Zakłóceń dookoła nie brakuje - radioteleskop otoczony jest przez tory tramwajowe i&nbsp;kolejowe oraz znajduje się w&nbsp;centrum Częstochowy.
+<br><br>
+Bardzo dziękujemy za zaproszenie oraz trzymamy kciuki za szybkie uruchomienie anteny i&nbsp;pierwszy odebrany sygnał.
+[/tresc]
+
+[tytul]Spotkanie z dr Bogdanem Wszołkiem[/tytul]
+[autor]Sebastian Kurowski, 25.12.2012[/autor]
+[tresc]<a href="img/zuk_rotunda.jpg" border="0"><img src="img/zuk_rotunda_m.jpg" align="left" style="margin-right: 10px;"></a>W&nbsp;sobotę, 8&nbsp;grudnia, wyruszyliśmy do Rzepiennika Biskupiego na spotkanie z&nbsp;dr&nbsp;Bogdanem Wszołkiem. Planowaliśmy wyjechać Żukiem, jednak -15 stopni unieruchomiło nasz pojazd i&nbsp;po długich próbach odpalenia musieliśmy się poddać i&nbsp;pojechać swoimi prywatnymi samochodami.
+<br><br>
+Po pokonaniu ponad 100 km oraz stromego, oblodzonego podjazdu, dotarliśmy na miejsce gdzie czekała na nas kojąca, gorąca herbata. Następnie wyruszyliśmy pięknymi rzepiennickimi ścieżkami w&nbsp;kierunku obserwatorium. Po około 1,5 km ukazały nam się kopuły obserwacyjne oraz radioteleskop. Nie da sie ukryć, że 9-metrowa antena prezentuje się fantastycznie. Warto wspomnieć, że jest to najnowocześniejszy radioteleskop w&nbsp;Polsce, odzyskany z&nbsp;likwidowanej stacji satelitarnej w&nbsp;Psarach. Przy okazji naszej wizyty "przeparkowaliśmy" go do bezpieczniejszego położenia, dzięki czemu powstał krótki filmik "timelapse" który można obejrzeć <a href="http://www.youtube.com/watch?v=WbnBgzp9P1w">tutaj</a>.
+<br><br>
+<a href="img/rt9.jpg" border="0"><img src="img/rt9_m.jpg" align="right" style="margin-left: 10px;"></a>Dwie 5-metrowe kopuły wciąż czekają na zamontowanie teleskopów - półmetrowego oraz 25-centymetrowego, które posłużą do obserwacji wizualnych oraz pokazów nieba. Cały teren otoczony pięknym lasem, w&nbsp;zimowej aurze prezentował się naprawdę bajecznie. Również sam budynek obserwatorium zrobił na nas ogromne wrażenie - świetnie przemyślany, funkcjonalny oraz pięknie wykończony przez dr&nbsp;Wszołka.
+<br><br>
+Ogromnie dziękujemy za ugoszczenie nas w&nbsp;Rzepienniku, oprowadzenie po obserwatorium i&nbsp;cały poświęcony nam czas!
+<br><br>
+Zdjęcia z&nbsp;wyjazdu można znaleźć <a href="https://plus.google.com/photos/102348230098260093243/albums?banner=pwa&gpsrc=pwrd1#photos/102348230098260093243/albums/5821914280494942065">tutaj</a>.
+[/tresc]

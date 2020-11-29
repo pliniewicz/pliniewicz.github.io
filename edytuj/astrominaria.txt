@@ -1,0 +1,24 @@
+[naglowek]12-12-2012, poniedziałek, 19:15[/naglowek]
+[tytul]O czym mówią nam wielkie przeglądy nieba?[/tytul]
+[autor]mgr Tobiasz Górecki[/autor]
+[opis][/opis]
+
+[naglowek]03-12-2012, poniedziałek, 19:15[/naglowek]
+[tytul]Ziemia pod Ostrzałem[/tytul]
+[autor]Agnieszka Świętoń[/autor]
+[opis][/opis]
+
+[naglowek]20-11-2012, wtorek, 19:15[/naglowek]
+[tytul]Ciemna materia[/tytul]
+[autor]Marcin Semczuk[/autor]
+[opis]W drugiej połowie XX wieku astronomowie badając rotację naszej oraz innych galaktyk odkryli, że obiekty w nich zawarte nie poruszają się po tzw. orbitach keplerowskich. Wyniki obserwacji nie zgadzają się z modelem opartym na oszacowaniach masy świecącej, jej widomym rozkładzie oraz na prawie powszechnego ciążenia. Aby wyjaśnić ową niezgodność, korzystając z lekcji historii zapostulowano istnienie dodatkowej nieświecącej masy - tzw. ciemnej materii. Podczas seminarium będzie można dowiedzieć się o tej, jak i o innych hipotezach oraz o badaniach mających je potwierdzić lub obalić.[/opis]
+
+[naglowek]05-11-2012, poniedziałek, 19:15[/naglowek]
+[tytul]Galaktyki Aktywne[/tytul]
+[autor]mgr Elżbieta Kuligowska[/autor]
+[opis][/opis]
+
+[naglowek_old]29-10-2012, poniedziałek, 19:30[/naglowek]
+[tytul]Astronomia gamma w zakresie TeV[/tytul]
+[autor]prof. Michał Ostrowski[/autor]
+[opis]Badanie kosmicznych akseleratorów cząstek w obserwatorium H.E.S.S.[/opis]
