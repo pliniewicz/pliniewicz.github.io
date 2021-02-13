@@ -1,16 +1,14 @@
 title: pliniewicz
 email: patryk@tfwno.gf
-description: >- 
+description: >-
   Descriptions are boring. This is just current version of my homepage.
-baseurl: "" 
-url: "" 
+baseurl: ""
+url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minimal
-plugins:
-  - jekyll-feed
+theme: minima
 
 # exclude:
 #   - gemfiles/
