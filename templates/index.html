@@ -1,0 +1,218 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set notes = get_section(path="notes/_index.md") %}
+
+<!-- ── HERO ──────────────────────────────────────────── -->
+<div class="hero" id="top">
+  <div>
+    <div class="hero-label">
+      PhD student · High Energy Astrophysics
+    </div>
+
+    <h1>Patryk Liniewicz</h1>
+
+    <p class="hero-sub">
+      <strong>Astronomical Observatory of the Jagiellonian University, Kraków</strong> &nbsp;·&nbsp;
+      Faculty of Physics, Astronomy and Applied Computer Science<br>
+      also at the Satellite Remote Sensing Department, Institute of Meteorology and Water Management (IMGW-PIB)
+    </p>
+
+    <div class="hero-links">
+      <a class="chip" href="https://orcid.org/0009-0008-3575-3965" target="_blank" rel="noopener">
+        <!-- ORCID icon -->
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="16"/><line x1="9" y1="11" x2="15" y2="11"/></svg>
+        ORCID
+      </a>
+      <a class="chip" href="https://scholar.google.com/citations?user=3-ilSQwAAAAJ&hl=en" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+        Google Scholar
+      </a>
+      <a class="chip" href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Liniewicz%2C%20P.%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        NASA/ADS
+      </a>
+      <a class="chip" href="https://github.com/pliniewicz" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+        GitHub
+      </a>
+      <!-- Fill in your LinkedIn username, then uncomment:
+      <a class="chip" href="https://www.linkedin.com/in/PLACEHOLDER" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+        LinkedIn
+      </a>
+      -->
+      <!-- CV withheld from the public repo for now (contains personal data).
+           When a public-safe version is ready: put it at static/cv.pdf, remove
+           the static/cv.pdf line from .gitignore, and uncomment:
+      <a class="chip cv-btn" href="/cv.pdf" target="_blank" rel="noopener">
+        ↓ CV (PDF)
+      </a>
+      -->
+    </div>
+  </div>
+
+  <div class="avatar">
+    <img src="/photo.jpg" alt="Patryk Liniewicz at the eyepiece of the historic Grubb refractor" />
+  </div>
+</div>
+
+<!-- ── RESEARCH ───────────────────────────────────────── -->
+<section id="research">
+  <div class="section-header">
+    <span class="section-num">01</span>
+    <h2>Research</h2>
+  </div>
+
+  <p>My PhD research focuses on the physics of relativistic jets launched by quasars — specifically, on what the radio-to-X-ray emission of their kiloparsec-scale segments can tell us about the underlying flow. Working with Łukasz Stawarz, I develop models that go beyond the common homogeneous one-zone approximation: the jet is treated as a current-carrying, axially symmetric outflow in magnetohydrostatic equilibrium, whose pressure, toroidal magnetic field, and velocity-shear profiles are linked self-consistently.</p>
+
+  <p>In my recent first-author work I applied this framework to ten <em>Chandra</em>-resolved quasar jets at z&nbsp;≥&nbsp;2.5. The Bayesian evidence favors radiating electrons that trace the gas pressure rather than the magnetic energy density, and points to jet powers reaching ~10<sup>49</sup>&nbsp;erg&nbsp;s<sup>−1</sup> — systematically higher than one-zone estimates suggest.</p>
+
+  <p>On the methods side, I care about doing the statistics properly: nested sampling and Bayesian model comparison, high-performance scientific computing, and — increasingly — simulation-based inference.</p>
+
+  <div class="tags">
+    <span class="tag accent">Relativistic AGN jets</span>
+    <span class="tag accent">VHE gamma-ray astronomy</span>
+    <span class="tag warm">Bayesian inference · nested sampling</span>
+    <span class="tag">Synchrotron / IC-CMB</span>
+    <span class="tag">Simulation-based inference</span>
+    <span class="tag">Scientific computing</span>
+  </div>
+</section>
+
+<!-- ── PUBLICATIONS ───────────────────────────────────── -->
+<section id="publications">
+  <div class="section-header">
+    <span class="section-num">02</span>
+    <h2>Selected Publications &amp; Preprints</h2>
+  </div>
+
+  {#- pulled from arXiv at build time; the workflow's weekly cron keeps it fresh.
+      Shown: papers with ≤ 10 authors that include Liniewicz (filters out large-collaboration papers). -#}
+  {% set arxiv = load_data(url="https://export.arxiv.org/api/query?search_query=au:%22Liniewicz%22&sortBy=submittedDate&sortOrder=descending&max_results=50", format="xml", required=false) %}
+  {% if arxiv %}
+  {% for e in arxiv.feed.entry %}
+  {% set author_json = e.author | json_encode() %}
+  {% if e.author | length <= 10 and author_json is containing("Liniewicz") %}
+  {% set arxiv_id = e.id | split(pat="/abs/") | last %}
+  <div class="card">
+    <div class="card-top">
+      <h3><a href="https://arxiv.org/abs/{{ arxiv_id }}" target="_blank" rel="noopener">{{ e.title }}</a></h3>
+      <span class="badge badge-pub">preprint</span>
+    </div>
+    <p>{{ e.author | map(attribute="name") | join(sep=", ") | replace(from="Patryk Liniewicz", to="<strong>Patryk Liniewicz</strong>") | safe }}</p>
+    <p style="margin-top:0.3rem">arXiv:{{ arxiv_id }} &nbsp;·&nbsp; {{ e.published | date(format="%b %Y") }}{% if e.comment | default(value="") %} &nbsp;·&nbsp; <em>{{ e.comment }}</em>{% endif %}</p>
+    <div class="card-links">
+      <a class="card-link" href="https://arxiv.org/abs/{{ arxiv_id }}" target="_blank" rel="noopener">arXiv</a>
+      <a class="card-link" href="https://arxiv.org/pdf/{{ arxiv_id }}" target="_blank" rel="noopener">PDF</a>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+
+  <p style="font-size:0.82rem; color:var(--text-muted); margin-top:1.2rem; font-family:'IBM Plex Mono',monospace;">
+    Full list on <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Liniewicz%2C%20P.%22&sort=date%20desc%2C%20bibcode%20desc" style="color:var(--accent);text-decoration:none;" target="_blank">NASA/ADS</a> and <a href="https://scholar.google.com/citations?user=3-ilSQwAAAAJ&hl=en" style="color:var(--accent);text-decoration:none;" target="_blank">Google Scholar</a>.
+  </p>
+</section>
+
+<!-- ── TALKS & POSTERS ────────────────────────────────── -->
+<section id="talks">
+  <div class="section-header">
+    <span class="section-num">03</span>
+    <h2>Talks &amp; Posters</h2>
+  </div>
+
+  <div class="card">
+    <div class="card-top">
+      <h3>Modeling of the broad-band emission of kpc-scale jets</h3>
+      <span class="card-meta">2025</span>
+    </div>
+    <p><span class="badge badge-conf">contributed talk</span> &nbsp; Extragalactic Jets in Crete 2025, Heraklion, Greece</p>
+  </div>
+
+  <p style="font-size:0.82rem; color:var(--text-muted); margin-top:1.2rem; font-family:'IBM Plex Mono',monospace;">
+    // section will grow — last updated {{ now() | date(format="%b %Y") }}
+  </p>
+</section>
+
+<!-- ── TEACHING ────────────────────────────────────────── -->
+<section id="teaching">
+  <div class="section-header">
+    <span class="section-num">04</span>
+    <h2>Teaching</h2>
+  </div>
+
+  <p style="margin-bottom:1.8rem; font-size:0.9rem; color:var(--text-dim);">
+    Alongside my PhD, I teach — from university tutorials to a semester of full-curriculum physics at a high school.
+  </p>
+
+  <div class="teach-grid">
+    <div class="teach-row">
+      <span class="teach-course">Physics (secondary level, full curriculum)</span>
+      <span class="teach-role">teacher · one semester</span>
+      <span class="teach-year">2025/26</span>
+    </div>
+    <div class="teach-row">
+      <span class="teach-course">Modern cosmology</span>
+      <span class="teach-role">tutorial instructor</span>
+      <span class="teach-year">winter 2025/26</span>
+    </div>
+    <div class="teach-row">
+      <span class="teach-course">Supplementary course in mathematics</span>
+      <span class="teach-role">tutorial instructor</span>
+      <span class="teach-year">winter 2024/25</span>
+    </div>
+  </div>
+</section>
+
+{% if notes.pages %}
+<!-- ── RECENT NOTES ───────────────────────────────────── -->
+<section id="notes">
+  <div class="section-header">
+    <span class="section-num">05</span>
+    <h2>Recent Notes</h2>
+  </div>
+
+  {% for page in notes.pages | slice(end=3) %}
+  <div class="card">
+    <div class="card-top">
+      <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+      <span class="card-meta">{{ page.date | date(format="%b %Y") }}</span>
+    </div>
+    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+  </div>
+  {% endfor %}
+
+  <p style="font-size:0.82rem; margin-top:1.2rem; font-family:'IBM Plex Mono',monospace;">
+    <a class="card-link" href="/notes/">all notes →</a>
+  </p>
+</section>
+{% endif %}
+
+<!-- ── CONTACT ────────────────────────────────────────── -->
+<section id="contact">
+  <div class="section-header">
+    <span class="section-num">{% if notes.pages %}06{% else %}05{% endif %}</span>
+    <h2>Contact</h2>
+  </div>
+
+  <div class="contact-inner">
+    <div class="contact-note">
+      <p style="margin-top:1rem; font-size:0.82rem; color:var(--text-muted);">
+        Astronomical Observatory<br>
+        Jagiellonian University<br>
+        ul. Orla 171, 30-244 Kraków, Poland
+      </p>
+    </div>
+
+    <div>
+      <div class="email-block">
+        <div class="email-label">email</div>
+        patryk.liniewicz [at] doctoral.uj.edu.pl<br>
+        pliniewicz [at] oa.uj.edu.pl
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock content %}

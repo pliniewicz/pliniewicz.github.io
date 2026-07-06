@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
+{% block description %}{{ section.description }}{% endblock description %}
+
+{% block content %}
+<div class="page-header">
+  <div class="hero-label">research notes</div>
+  <h1>Notes</h1>
+  <p>{{ section.description }}</p>
+</div>
+
+<section>
+  {% for page in section.pages %}
+  <div class="card">
+    <div class="card-top">
+      <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+      <span class="card-meta">{{ page.date | date(format="%Y-%m-%d") }}</span>
+    </div>
+    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+    {% if page.taxonomies.tags %}
+    <div class="tags" style="margin-top:0.9rem;">
+      {% for tag in page.taxonomies.tags %}
+      <a class="tag" href="{{ get_taxonomy_url(kind="tags", name=tag) }}">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% else %}
+  <p style="font-family:'IBM Plex Mono',monospace; font-size:0.82rem; color:var(--text-muted);">
+    // nothing published yet — first note coming soon
+  </p>
+  {% endfor %}
+</section>
+{% endblock content %}

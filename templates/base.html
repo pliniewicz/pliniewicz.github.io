@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
+  <link rel="alternate" type="application/atom+xml" title="{{ config.title }} — notes" href="{{ get_url(path="atom.xml") }}" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🔭</text></svg>" />
+  {% block og %}
+  <meta property="og:title" content="{{ config.title }}" />
+  <meta property="og:description" content="{{ config.description }}" />
+  {% endblock og %}
+  <meta property="og:site_name" content="{{ config.title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="{{ get_url(path="photo.jpg") }}" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="stylesheet" href="{{ get_url(path="fonts.css") }}" />
+  <link rel="stylesheet" href="{{ get_url(path="style.css") }}" />
+  {% block extra_head %}{% endblock extra_head %}
+</head>
+<body>
+
+<nav>
+  <a class="nav-logo" href="/"><span class="star">✦</span>Patryk Liniewicz</a>
+  <ul class="nav-links">
+    <li><a href="/#research">Research</a></li>
+    <li><a href="/#publications">Papers</a></li>
+    <li><a href="/#talks">Talks</a></li>
+    <li><a href="/#teaching">Teaching</a></li>
+    <li><a href="/notes/">Notes</a></li>
+    <li><a href="/#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<div class="site-wrap">
+{% block content %}{% endblock content %}
+</div><!-- /site-wrap -->
+
+<footer>
+  Patryk Liniewicz &nbsp;·&nbsp; built with <a href="https://www.getzola.org">Zola</a> with a little help from Claude &nbsp;·&nbsp; updated {{ now() | date(format="%b %Y") }} &nbsp;·&nbsp; <a href="{{ get_url(path="atom.xml") }}">rss</a>
+</footer>
+
+</body>
+</html>

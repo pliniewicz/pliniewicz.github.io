@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}Tags — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div class="page-header">
+  <div class="hero-label">taxonomy</div>
+  <h1>Tags</h1>
+</div>
+
+<section>
+  <div class="tags">
+    {% for term in terms %}
+    <a class="tag" href="{{ term.permalink }}">{{ term.name }} ({{ term.pages | length }})</a>
+    {% endfor %}
+  </div>
+</section>
+{% endblock content %}

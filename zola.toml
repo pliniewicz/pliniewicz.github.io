@@ -1,0 +1,22 @@
+# Zola configuration — https://www.getzola.org/documentation/getting-started/configuration/
+base_url = "https://pliniewicz.github.io"
+title = "Patryk Liniewicz"
+description = "PhD student in high-energy astrophysics at the Astronomical Observatory of the Jagiellonian University, Kraków. Relativistic jets, VHE blazars, Bayesian inference, satellite remote sensing."
+
+compile_sass = false
+build_search_index = false
+
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+taxonomies = [
+    { name = "tags", feed = true },
+]
+
+[markdown]
+smart_punctuation = true
+
+[markdown.highlighting]
+theme = "gruvbox-dark-medium"
+
+[extra]

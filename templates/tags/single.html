@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}#{{ term.name }} — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div class="page-header">
+  <div class="hero-label">tag</div>
+  <h1>#{{ term.name }}</h1>
+  <p><a class="back-link" href="/tags/">← all tags</a></p>
+</div>
+
+<section>
+  {% for page in term.pages %}
+  <div class="card">
+    <div class="card-top">
+      <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+      <span class="card-meta">{{ page.date | date(format="%Y-%m-%d") }}</span>
+    </div>
+    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+  </div>
+  {% endfor %}
+</section>
+{% endblock content %}
