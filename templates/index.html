@@ -64,11 +64,10 @@
     <h2>Research</h2>
   </div>
 
-  <p>My PhD research focuses on the physics of relativistic jets launched by quasars — specifically, on what the radio-to-X-ray emission of their kiloparsec-scale segments can tell us about the underlying flow. Working with Łukasz Stawarz, I develop models that go beyond the common homogeneous one-zone approximation: the jet is treated as a current-carrying, axially symmetric outflow in magnetohydrostatic equilibrium, whose pressure, toroidal magnetic field, and velocity-shear profiles are linked self-consistently.</p>
+  <p>My PhD research focuses on the physics of relativistic jets launched by quasars — specifically, on what the radio-to-X-ray emission of their kiloparsec-scale segments can tell us about the underlying flow. Working with Łukasz Stawarz, I use models that go beyond the common homogeneous one-zone approximation: the jet is treated as a current-carrying, axially symmetric outflow in magnetohydrostatic equilibrium, whose pressure, toroidal magnetic field, and velocity-shear profiles are linked self-consistently.</p>
 
   <p>In my recent first-author work I applied this framework to ten <em>Chandra</em>-resolved quasar jets at z&nbsp;≥&nbsp;2.5. The Bayesian evidence favors radiating electrons that trace the gas pressure rather than the magnetic energy density, and points to jet powers reaching ~10<sup>49</sup>&nbsp;erg&nbsp;s<sup>−1</sup> — systematically higher than one-zone estimates suggest.</p>
 
-  <p>On the methods side, I care about doing the statistics properly: nested sampling and Bayesian model comparison, high-performance scientific computing, and — increasingly — simulation-based inference.</p>
 
   <div class="tags">
     <span class="tag accent">Relativistic AGN jets</span>
@@ -93,7 +92,7 @@
   {% if arxiv %}
   {% for e in arxiv.feed.entry %}
   {% set author_json = e.author | json_encode() %}
-  {% if e.author | length <= 10 and author_json is containing("Liniewicz") %}
+  {% if e.author | length <= 100 and author_json is containing("Liniewicz") %}
   {% set arxiv_id = e.id | split(pat="/abs/") | last %}
   <div class="card">
     <div class="card-top">
