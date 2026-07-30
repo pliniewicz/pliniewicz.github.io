@@ -92,7 +92,7 @@
   {% if arxiv %}
   {% for e in arxiv.feed.entry %}
   {% set author_json = e.author | json_encode() %}
-  {% if e.author | length <= 100 and author_json is containing("Liniewicz") %}
+  {% if e.author | length <= 10 and author_json is containing("Liniewicz") %}
   {% set arxiv_id = e.id | split(pat="/abs/") | last %}
   <div class="card">
     <div class="card-top">

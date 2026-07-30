@@ -5,7 +5,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '17 5 * * 1'  # weekly rebuild so the arXiv preprint list stays fresh
+    - cron: '17 5 */3 * *'  # rebuild every three days so the arXiv preprint list stays fresh
 
 permissions:
   contents: read
