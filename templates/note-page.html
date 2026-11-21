@@ -21,19 +21,19 @@
 {% endblock extra_head %}
 
 {% block content %}
-<article class="note">
+<article class="note reading-page">
+  <a href="/notes/">All notes</a>
   <header>
-    <a class="back-link" href="/notes/">← all notes</a>
     <h1>{{ page.title }}</h1>
-    <div class="note-meta">
-      <span>{{ page.date | date(format="%d %b %Y") }}</span>
-      <span>·</span>
+    <div class="note-meta metadata">
+      <time datetime="{{ page.date }}">{{ page.date | date(format="%d %b %Y") }}</time>
       <span>{{ page.reading_time }} min read</span>
       {% if page.taxonomies.tags %}
-      <span>·</span>
-      {% for tag in page.taxonomies.tags %}
-      <a class="tag" href="{{ get_taxonomy_url(kind="tags", name=tag) }}">{{ tag }}</a>
-      {% endfor %}
+      <ul class="inline-links" aria-label="Tags" role="list">
+        {% for tag in page.taxonomies.tags %}
+        <li><a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
       {% endif %}
     </div>
   </header>

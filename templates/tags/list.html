@@ -3,16 +3,12 @@
 {% block title %}Tags — {{ config.title }}{% endblock title %}
 
 {% block content %}
-<div class="page-header">
-  <div class="hero-label">taxonomy</div>
+<div class="reading-page">
   <h1>Tags</h1>
-</div>
-
-<section>
-  <div class="tags">
+  <ul class="inline-links" role="list">
     {% for term in terms %}
-    <a class="tag" href="{{ term.permalink }}">{{ term.name }} ({{ term.pages | length }})</a>
+    <li><a href="{{ term.permalink }}">{{ term.name }}</a> ({{ term.pages | length }})</li>
     {% endfor %}
-  </div>
-</section>
+  </ul>
+</div>
 {% endblock content %}

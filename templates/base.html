@@ -21,24 +21,29 @@
 </head>
 <body>
 
-<nav>
-  <a class="nav-logo" href="/"><span class="star">✦</span>Patryk Liniewicz</a>
-  <ul class="nav-links">
-    <li><a href="/#research">Research</a></li>
-    <li><a href="/#publications">Papers</a></li>
-    <li><a href="/#talks">Talks</a></li>
-    <li><a href="/#teaching">Teaching</a></li>
-    <li><a href="/notes/">Notes</a></li>
-    <li><a href="/#contact">Contact</a></li>
-  </ul>
-</nav>
+<a class="skip-link" href="#main">Skip to content</a>
 
-<div class="site-wrap">
+<header class="site-header">
+  <nav class="site-nav wrap" aria-label="Main navigation">
+    <a class="site-name" href="/">Patryk Liniewicz</a>
+    <ul class="inline-links" role="list">
+      <li><a href="/#research">Research</a></li>
+      <li><a href="/#publications">Papers</a></li>
+      <li><a href="/#talks">Talks</a></li>
+      <li><a href="/#teaching">Teaching</a></li>
+      <li><a href="/notes/">Notes</a></li>
+      <li><a href="/#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="main" class="wrap">
 {% block content %}{% endblock content %}
-</div><!-- /site-wrap -->
+</main>
 
-<footer>
-  Patryk Liniewicz &nbsp;·&nbsp; built with <a href="https://www.getzola.org">Zola</a> with a little help from Claude &nbsp;·&nbsp; updated {{ now() | date(format="%b %Y") }} &nbsp;·&nbsp; <a href="{{ get_url(path="atom.xml") }}">rss</a>
+<footer class="site-footer wrap">
+  <p>Built with <a href="https://www.getzola.org">Zola</a> with a little help from Claude</p>
+  <a href="{{ get_url(path="atom.xml") }}">RSS</a>
 </footer>
 
 </body>
