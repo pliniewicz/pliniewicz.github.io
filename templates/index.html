@@ -1,7 +1,6 @@
 {% extends "base.html" %}
 
 {% block content %}
-{% set notes = get_section(path="notes/_index.md") %}
 {% set ads_url = "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Liniewicz%2C%20P.%22&sort=date%20desc%2C%20bibcode%20desc" %}
 {% set scholar_url = "https://scholar.google.com/citations?user=3-ilSQwAAAAJ&hl=en" %}
 
@@ -126,12 +125,12 @@
   </div>
 </section>
 
-{% if notes.pages %}
+{% if published_notes %}
 <section class="home-section" id="notes" aria-labelledby="notes-title">
   <h2 id="notes-title">Recent notes</h2>
   <div class="section-content">
     <ul class="records" role="list">
-      {% for page in notes.pages | slice(end=3) %}
+      {% for page in published_notes | slice(end=3) %}
       <li>
         <div class="record-heading">
           <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>

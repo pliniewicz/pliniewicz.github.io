@@ -1,3 +1,5 @@
+{% set notes_section = get_section(path="notes/_index.md") -%}
+{% set published_notes = notes_section.pages | filter(attribute="draft", value=false) -%}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
-  <link rel="alternate" type="application/atom+xml" title="{{ config.title }} — notes" href="{{ get_url(path="atom.xml") }}" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🔭</text></svg>" />
   {% block og %}
   <meta property="og:title" content="{{ config.title }}" />
@@ -31,7 +32,9 @@
       <li><a href="/#publications">Papers</a></li>
       <li><a href="/#talks">Talks</a></li>
       <li><a href="/#teaching">Teaching</a></li>
+      {% if published_notes %}
       <li><a href="/notes/">Notes</a></li>
+      {% endif %}
       <li><a href="/#contact">Contact</a></li>
     </ul>
   </nav>
@@ -43,7 +46,6 @@
 
 <footer class="site-footer wrap">
   <p>Built with <a href="https://www.getzola.org">Zola</a> with a little help from Claude</p>
-  <a href="{{ get_url(path="atom.xml") }}">RSS</a>
 </footer>
 
 </body>

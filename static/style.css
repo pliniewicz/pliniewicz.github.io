@@ -1,11 +1,12 @@
 :root {
-  color-scheme: light;
-  --ink: #20252b;
-  --muted: #505a65;
-  --link: #204f79;
-  --link-hover: #123452;
-  --rule: #d5dce3;
-  --wash: #f1f4f7;
+  color-scheme: dark;
+  --page: #15171a;
+  --ink: #e5e7eb;
+  --muted: #aeb6c1;
+  --link: #a5c5e9;
+  --link-hover: #d3e4f8;
+  --rule: #363d46;
+  --wash: #24282e;
   --serif: 'DM Serif Display', Georgia, serif;
   --mono: 'IBM Plex Mono', monospace;
 }
@@ -17,7 +18,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
-  background: #fff;
+  background: var(--page);
   color: var(--ink);
   font: 1rem/1.65 'DM Sans', system-ui, sans-serif;
 }
@@ -55,18 +56,17 @@ main { flex: 1; }
   top: 0.5rem;
   left: 1rem;
   padding: 0.5rem 1rem;
-  background: #fff;
+  background: var(--page);
   transform: translateY(-150%);
 }
 
 .skip-link:focus { z-index: 1; transform: none; }
 
 .site-header {
-  border-top: 3px solid var(--link);
   border-bottom: 1px solid var(--rule);
 }
 
-.site-nav, .site-footer {
+.site-nav {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
@@ -200,6 +200,7 @@ main { flex: 1; }
 .contact p { margin: 0; }
 
 .site-footer {
+  padding-block: 0.95rem;
   border-top: 1px solid var(--rule);
   color: var(--muted);
   font-size: 0.875rem;

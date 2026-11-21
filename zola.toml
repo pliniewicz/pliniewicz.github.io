@@ -6,11 +6,8 @@ description = "PhD student in high-energy astrophysics at the Astronomical Obser
 compile_sass = false
 build_search_index = false
 
-generate_feeds = true
-feed_filenames = ["atom.xml"]
-
 taxonomies = [
-    { name = "tags", feed = true },
+    { name = "tags" },
 ]
 
 [markdown]
