@@ -1,0 +1,14 @@
+name: Refresh arXiv preprints
+
+# GitHub can disable this schedule after inactivity. Pushes use deploy.yml.
+on:
+  schedule:
+    - cron: '17 5 */3 * *'
+
+jobs:
+  refresh:
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

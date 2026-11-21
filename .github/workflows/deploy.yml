@@ -4,8 +4,7 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-  schedule:
-    - cron: '17 5 */3 * *'  # rebuild every three days so the arXiv preprint list stays fresh
+  workflow_call:
 
 permissions:
   contents: read
