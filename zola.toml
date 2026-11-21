@@ -1,7 +1,7 @@
 # Zola configuration — https://www.getzola.org/documentation/getting-started/configuration/
 base_url = "https://pliniewicz.github.io"
 title = "Patryk Liniewicz"
-description = "PhD student in high-energy astrophysics at the Astronomical Observatory of the Jagiellonian University, Kraków. Relativistic jets, VHE blazars, Bayesian inference, satellite remote sensing."
+description = "I'm a PhD student at the Astronomical Observatory of the Jagiellonian University in Kraków. I study quasar jets and gamma-ray cosmology and work with weather satellite data at IMGW-PIB."
 
 compile_sass = false
 build_search_index = false
